@@ -6,8 +6,4 @@ this is just a test
 
 Please save the changes 
 
-## Local Development 
-1. haha
-2. hahaha
-3. hahahaha
-4. ?  
+
